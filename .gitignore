@@ -1,0 +1,11 @@
+bin/
+.dep/
+*.zip
+*.o
+*.lst
+*.lss
+*.bin
+*.elf
+*.d
+*.eep
+*.map
